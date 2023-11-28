@@ -8,7 +8,6 @@ const Navbar = () => {
       <div class="flex lg:flex-1">
         <a href="#" class="-m-1.5 p-1.5">
           <span class="sr-only">Your Company</span>
-          <Image class="h-8 w-auto animate__animated animate__fadeIn" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600" width={125} height={50} alt=""/>
         </a>
       </div>
       <div class="flex lg:hidden">
